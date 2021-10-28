@@ -27,7 +27,7 @@ header a {
 
 header nav {
     float: right;
-    margin 7px 0px;
+    margin: 7px 0px;
 }
 
 header nav ul li {
@@ -35,7 +35,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    margin: 0 30p;
+    margin: 0px 30px;
     font-weight: lighter;
     font-size: 22px;
 }
